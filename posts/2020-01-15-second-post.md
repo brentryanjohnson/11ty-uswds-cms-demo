@@ -8,4 +8,4 @@ author: George Washington
 date: 2020-01-15
 excerpt: This is an excerpt for second page
 ---
-This is a test of the cms.
+After I cut down a cherry tree, I set up this CMS demo.
