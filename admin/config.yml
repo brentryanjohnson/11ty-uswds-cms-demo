@@ -3,7 +3,7 @@ backend:
   name: github
   repo: brentryanjohnson/11ty-uswds-cms-demo
 #  base_url: https://federalistapp.18f.gov
-  auth_endpoint: external/auth/github
+#  auth_endpoint: external/auth/github
 #  preview_context: federalist/build
   branch: main
 #  use_graphql: true
